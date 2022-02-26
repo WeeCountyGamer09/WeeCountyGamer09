@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Luke!
 - 👀 I’m interested in Coding/Game Designing
-- 🌱 I’m currently learning Spanish!
-
-<!---
-WeeCountyGamer09/WeeCountyGamer09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🇪🇸 I’m currently learning Spanish!
+- 🇮🇪 Irish 
+- 😎 13
+- 🎮 Love playing FNAF/Ark and Minecraft.
+- ✌ Admin on Ark for the 'Exotic Cluster'
+- 👨‍💻 Programmer On BeatSaber and Unreal Engine
+- 🤩 Likes anime
